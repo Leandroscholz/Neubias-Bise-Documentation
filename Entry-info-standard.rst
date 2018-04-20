@@ -8,3 +8,14 @@ This standard comprises a list of entry attributes to be specified for an entry 
 
 In addition we provide curation guidelines (still under discussion) describing how each attribute should be specified to ensure the quality of BIII.eu entries. These guidelines are not limited to the syntatic and semantic contraints defined by EDAM-bioimaging ontology and BISE-core-ontology
 
+The standard provides a basis for monitoring of content and labelling of BIII.eu entries initially by: 
+
+* *entry completeness* (5 tiers being "SPARSE", "BASIC DETAILS", "DETAILED", "HIGHLY DETAILED" and "COMPREHENSIVE")
+
+The standard is applied to BIII.eu as follows: 
+
+* "SPARSE": Minimum information requirement for new entries. A SPARSE entry may be invisible in the webtool (and made it clear to the curator adding the entry in the UI) by default and will only show after aditional information is added (similar to what occurs in bio.tools). 
+* "BASIC DETAILS":
+* "DETAILED":
+* "HIGHLY DETAILED":
+* "COMPREHENSIVE": Such entries would provide relevant information to users of all backgrounds and are useful resources 
