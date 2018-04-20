@@ -18,4 +18,4 @@ The standard is applied to BIII.eu as follows:
 * "BASIC DETAILS":
 * "DETAILED":
 * "HIGHLY DETAILED":
-* "COMPREHENSIVE": Such entries would provide relevant information to users of all backgrounds and are useful resources 
+* "COMPREHENSIVE": Such entries would provide relevant information to users of all backgrounds and are useful resources. The entry attributes will link to information such as a repository, reference publication, training material and will potentially have several related Biological terms, EDAM-Bioimaging Operations and Topics. 
